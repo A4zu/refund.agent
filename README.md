@@ -1,4 +1,4 @@
-![Image](assets/image.png)
+![Screenshot](assets/Screenshot%202026-09-08%20at%2017.29.44.png)
 # Refund Agent (LangGraph)
 
 A simple AI agent that analyzes customer messages to determine whether they're
