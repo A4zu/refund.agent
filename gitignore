@@ -1,0 +1,22 @@
+# Mühit dəyişənləri (sirr saxlayır - HEÇ VAXT commit etməyin)
+.env
+
+# Verilənlər bazası (hər işə salınmada avtomatik yaranır)
+orders.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
